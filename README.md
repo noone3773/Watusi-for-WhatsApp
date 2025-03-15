@@ -31,12 +31,6 @@ The all-in-one tweak for WhatsApp Messenger!
 
 # How to install Watusi
 
-### Jailbroken Devices
-
-Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. 
-
-(Check [this page](https://appledb.dev/device-selection/) for more info on how to jailbreak your device if possible)
-
 ### Sideloading (No Jailbreak)
 
 * (Option 1) Download IPA file from here and follow the below [Sideloading with AltStore](#sideloading-with-altstore) instructions to sign and install the app from your computer. You can also follow the [Sideloading as a linked device](#sideloading-as-linked-device-push-notifictions--icloud-backup) tutorial to sideload a duplicate and still receive push notifications from original.
